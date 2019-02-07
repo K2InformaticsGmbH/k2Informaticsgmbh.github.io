@@ -31,18 +31,24 @@ module.exports = {
         new webpack.ProvidePlugin({
             $: 'jquery',
             jQuery: 'jquery',
-            'window.jQuery': 'jquery'
+            'window.jQuery': 'jquery',
+            magnificPopup:'magnific-popup',
+            i18next:'i18next',
+            i18nextXHRBackend:'i18next-xhr-backend',
+            jqueryI18next:'jquery-i18next'
         }),
         new HtmlWebpackPlugin({
-            title: pkg.description + ' ' + pkg.version
+            title: pkg.description + ' ' + pkg.version,
+            template: './html/template.html',
+            favicon:'./assets/images/logo.png',
+            inject:'head'
         }),
-        new favicon('./assets/images/logo.png')
     ],
     module: {
         rules: [
             {
-                test: /\.(scss)$/,
-                use: ['style-loader', 'css-loader', 'postcss-loader', 'sass-loader']
+                test: /\.(scss|css)$/,
+                use: ['style-loader', 'css-loader','sass-loader']
             },
             {
                 test: /\.html$/, loader: 'html-loader',
@@ -53,12 +59,34 @@ module.exports = {
             },
             {
                 test: /\.(png|jpe?g|gif|svg|ico|mp3|ogg|mp4|webm)$/,
-                loader: 'file-loader', options: { name: 'media/[hash:6].[ext]' }
+                loader: 'file-loader', 
+                options: { 
+                    name: 'assets/images/[name].[ext]'
+                }
             },
             {
                 test: /\.(pdf).*$/,
-                loader: 'file-loader', options: { name: 'docs/[name].[ext]' }
-            }
+                loader: 'file-loader', 
+                options: { 
+                    name: 'docs/[name].[ext]'
+                }
+            },
+            {
+                test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+                use: [{
+                    loader: 'file-loader',
+                    options: { 
+                        outputPath: 'assets/font/'
+                    }
+                }]
+            },
+            {
+                test: /\.(json).*$/,
+                loader: 'file-loader', 
+                options: { 
+                    name: 'translations/[name].[ext]'
+                }
+            },
         ]
     }
 };
