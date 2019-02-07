@@ -1,0 +1,453 @@
+{
+  "menu": {
+    "home": "Home",
+    "services": "Services",
+    "solutions": "Solutions",
+    "about_us": "About Us",
+    "moreText": "More"
+  },
+  "home": {
+    "headline": "Welcome to K2 Informatics GmbH",
+    "mainContent": "You will find some information about us here. We will be happy to explain you in concrete terms what we can do for you. <a href=''>Call us</a> or send us an <a href=''>email</a>.",
+    "subContents": [
+      "Wanted: experienced Erlang programmer.",
+      "Wanted: experienced Erlang developer.",
+      "Knowledge Square.",
+      "Building up knowledge.",
+      "Gain information.",
+      "Process data."
+    ],
+    "serviceShortText": "Quickly and conveniently solved an IT problem...",
+    "solutionShortText": "The secure handling of data is the basis for any information...",
+    "companiesShortText": "The market and your business is changing faster and faster..."
+  },
+  "services": {
+    "headline": "Services",
+    "mainContent": "Then we would like to do our part, either as an advisor or as we implement a solution for you and, if you wish, we can also do it for you.",
+    "subContents": {
+      "firstRow": {
+        "title": "You want...",
+        "list": [
+          "Quickly and conveniently an IT problem",
+          "Expand or renew your information system",
+          "Consolidate your operational knowledge and gain an overview"
+        ]
+      },
+      "secondRow": {
+        "title": "And thereby..",
+        "list": [
+          "Protect and continue to use your previous investments",
+          "Optimize time-to-market",
+          "Increase the productivity of your processes",
+          "Improve the transparency of the system",
+          "Maintain continuity and proceed step by step"
+        ]
+      },
+      "thirdRow": {
+        "title": "Consultation",
+        "content": "We bring theoretical foundations and ways of working into our projects, but put a lot of emphasis on experience (yours and ours), proportionality, common sense, your own competence and teamwork.",
+        "list": [
+          "We offer the following consulting services:",
+          "Advice on IT issues related to own and third party products",
+          "Advice on technical, organizational and work-psychological issues",
+          "Trouble-Shooting",
+          "Process Engineering",
+          "Development of requirement profiles, IT concepts and strategies",
+          "Development of implementation strategies",
+          "Create test concepts and conduct tests on your behalf",
+          "Management of computer science projects",
+          "Conception of communication, information and knowledge platforms"
+        ]
+      },
+      "fourthRow": {
+        "title": "Engineering und Entwicklung",
+        "content": "Wir realisieren IT-Projekte zu fixen Preisen und Terminen, als Generalunternehmer oder als Komponenten-Lieferant.",
+        "list": [
+          "Realisierung von Integrationsprojekten",
+          "Schnittstellen zwischen bestehenden Applikationen",
+          "Wrapping von bestehenden Applikationen",
+          "Re-Engineering von bestehenden Applikationen",
+          "Konzeption und Realisierung von neuen Applikationen",
+          "Realisierung von Informationsplattformen",
+          "Datenbank-Design / Data Warehousing",
+          "Data Mining / Reporting",
+          "Informations-Verteilung",
+          "Dokumenten-Verwaltung",
+          "Aufbau von Wissensplattformen",
+          "massgeschneiderte Wissensmodelle",
+          "interaktive Wissens-Erfassung",
+          "Wissens-Präsentation"
+        ]
+      },
+      "fifthRow": {
+        "title": "Unsere aktive Unterstützung bei Ihnen im Betrieb",
+        "content": "Wir arbeiten gerne in Ihrem Betrieb mit",
+        "list": [
+          "bei der Betreuung Ihrer IT-Systeme",
+          "bei der Bereitstellung von Informationen",
+          "bei der Formalisierung und Verteilung von Wissen",
+          "Mitarbeit beim Betrieb von Applikationen oder Teilen davon",
+          "während der Einführung einer neuen Lösung",
+          "zur Überbrückung von Spitzenlast-Zeiten",
+          "als nicht befristete Dienstleistung",
+          "Diese Art von Support erlaubt uns eine vertiefte Einsicht in Ihre Prozesse und hilft uns bei der Ortung von verborgenen Informations- und Wissens-Schätzen. Wir kombinieren diese Dienstleistungen auch mit Training-on-the-job und erzielen damit einen wirklich praxisrelevanten Know-How-Transfer in beide Richtungen."
+        ]
+      }
+    }
+  },
+  "solutions": {
+    "headline": "Solutions",
+    "mainContent": "Wir bieten Unterstützung und/oder fertige Lösungen in diversen Branchen zu den Themen Daten-, Informations- und Wissens-Management.<br/>Die Module der drei Schichten bauen aufeinander auf und können bei Bedarf in das Portalsystem Knowledge Square integriert werden.",
+    "subContents": {
+      "firstRow": {
+        "title": "Knowledge Management",
+        "list": [
+          "Knowledge Collection",
+          "Knowledge Store",
+          "Knowledge Model"
+        ]
+      },
+      "secondRow": {
+        "title": "Information Handling",
+        "list": [
+          "Data Analysis",
+          "Data Processing",
+          "Data Consolidation"
+        ]
+      },
+      "thirdRow": {
+        "title": "Data Processing",
+        "list": [
+          "Data Interfaces",
+          "Data Collection",
+          "Data Mediation"
+        ]
+      }
+    },
+    "daten": {
+      "headline": "Daten verarbeiten",
+      "contents": [
+        "Auch unsere kleinen stand-alone Lösungen sind so ausgelegt, dass sie bei Bedarf in eine Knowledge Square - Plattform eingebunden werden können. Dies erlaubt eine schrittweise und risikoarme Vorgehensweise.",
+        "Der sichere Umgang mit Daten ist die Basis für jedes Informationssystem.Unsere Data-Mediation-Module unterstützen...",
+        [
+          "grosse Datenmengen",
+          "sensiblen Daten",
+          "alle gängigen Schnittstellen",
+          "Fehler-toleranten Datentransport",
+          "Transfer- und Verarbeitungs-Monitoring",
+          "Transfer- und Verarbeitungs-History"
+        ],
+        "Wir setzen auf Standards und arbeiten bevorzugt auf Windows- und Unix-Plattformen",
+        "Auch unsere kleinen stand-alone Lösungen sind so ausgelegt, dass sie bei Bedarf in eine Knowledge Square-Plattform eingebunden werden können. Dies erlaubt eine schrittweise und risikoarme Vorgehensweise."
+      ]
+    },
+    "informationen": {
+      "headline": "Informationen",
+      "desc": [
+        "Wenn es um die Bereitstellung von Informationen geht, können wir uns auf unsere Datenverarbeitungs-Module und -Schnittstellen verlassen.",
+        "Was hier dazukommt, sind benutzerfreundliche Navigations- und Suchfunktionen, eine rollenbasierte Zugriffssteuerung und Möglichkeiten zur flexiblen Formatierung der Ausgaben."
+      ],
+      "contents": [
+        "<b>Wie gewinnen wir Informationen?</b>",
+        [
+          "Konsolidierung/Analyse von Daten (Data Mining)",
+          "Eingabe am Bildschirm (Provisioning)",
+          "Synchronisation von anderen Systemen (Replication)",
+          "Suche/Parsing im Intranet/Internet"
+        ],
+        "<b>Wie finden wir Informationen?</b>",
+        [
+          "Navigation in vorgegebenen Rubriken",
+          "Suche nach Text-Bestandteilen oder Stichwörtern",
+          "Rollenbasierte Filter und Zugangsberechtigungen"
+        ],
+        "<b>Wie verteilen wir Informationen?</b>",
+        [
+          "Pull (Empfänger holt die Informationen auf einem Portal)",
+          "Push (Empfänger erhält die Informationen zugeschickt, z.B. als eMail)",
+          "PushPull (Empfänger erhält einen Hinweis zugeschickt, z.B. eine SMS und holt dann ab)"
+        ],
+        "Wenn es um die Bereitstellung von Informationen geht, können wir uns auf unsere Datenverarbeitungs-Module und -Schnittstellen verlassen.",
+        "Was hier dazukommt, sind benutzerfreundliche Navigations- und Suchfunktionen, eine rollenbasierte Zugriffssteuerung und Möglichkeiten zur flexiblen Formatierung der Ausgaben."
+      ]
+    },
+    "wissen": {
+      "headline": "Wissen",
+      "contents": [
+        "Rein personenbezogenes Wissen ist nur bedingt nutzbar und muss zuerst 'verallgemeinert' werden. Die Metapher des Eisbergs bietet sich an, wo nur ein Teil der Eismasse an der Oberfläche sichtbar ist. Genauso verhält es sich mit der Kommunikation, wo es gilt, den geschäftlichen Teil der informellen Kommunikation der Mitarbeiter in nutzbare formelle und elektronisch verwertbare Kanäle zu lenken.",
+        "<b>Wie erarbeiten wir nutzbares Wissen?</b>",
+        [
+          "Angepasstes Wissensmodell (Fundament/Rahmen)",
+          "Gelenkte Kommunikation (über Knowledge Square)",
+          "Wissensbeiträge von Mitarbeitern (Know-How)",
+          "Externe Wissensbeiträge (Best Practises)",
+          "Interne oder externe Moderation der Inhalte-Pflege",
+          "Training"
+        ],
+        "<b>Wie bewahren wir Wissen?</b>",
+        [
+          "Wissens-Speicher",
+          "kontinuierliche Pflege durch die Beteiligten",
+          "periodische Qualitäts-Reviews"
+        ],
+        "Rein personenbezogenes Wissen ist nur bedingt nutzbar und muss zuerst 'verallgemeinert' werden. Die Metapher des Eisbergs bietet sich an, wo nur ein Teil der Eismasse an der Oberfläche sichtbar ist.",
+        "Genauso verhält es sich mit der Kommunikation, wo es gilt, den geschäftlichen Teil der informellen Kommunikation der Mitarbeiter in nutzbare formelle und elektronisch verwertbare Kanäle zu lenken."
+      ]
+    },
+    "branchen": {
+      "headline": "Branchen-Erfahrung",
+      "contents": [
+        "Das bei K2 Informatics verfügbare Know-How in ihrer Branche legen wir ihnen wir gerne auf Anfrage dar. Wir freuen uns auf ihren Anruf.",
+        "<b>Die Mitarbeiter der K2 Informatics und die Partnerfirmen bringen langjährige Erfahrung in diversen Branchen mit.</b>",
+        [
+          "Telecom",
+          "R&D in Industrie und Forschung",
+          "Banken",
+          "Tourismus",
+          "Box Offices (Ticketing)",
+          "Mobile-Ticketing",
+          "Internet-Publishing",
+          "eCommerce",
+          "Energietechnik"
+        ],
+        "Das bei K2 Informatics verfügbare Know-How in ihrer Branche legen wir ihnen wir gerne auf Anfrage dar.Wir freuen uns auf ihren "
+      ]
+    },
+    "knowledge": {
+      "headline": "Knowledge Squares",
+      "contents": [
+        "personenbezogenes (flüchtiges) Know-How in kollektives Know-How verwandeln informelle Kommunikation durch formelle (wo notwendig) ersetzten die Anwendung von Standards und Werkzeugen verbessern Kommunikations- und Wissensdefizite sichtbar machen",
+        "Wissens-Drehscheiben (Knowledge Squares) basieren auf modernen Web-Techniken und werden intern (von Ihren Mitarbeitern) oder extern (von uns oder Ihrem Berater) gepflegt und moderiert.Sie bauen auf den bestehenden Informatiklösungen auf und präsentieren die in diesen Systemen geführten Daten in einem übergeordneten Kontext.Knowledge Squares bilden aber auch die betrieblichen Informatik-Komponenten ab und erlauben es so, Wissen über diese aufzunehmen, in einen Zusammenhang zu den betrieblichen Abläufen zu stellen und in einheitlicher Form zu präsentieren.Knowledge Squares werden an die individuellen Bedürfnisse des Unternehmens und der Mitarbeitergruppen (Rollen) angepasst."
+      ]
+    }
+  },
+  "about_us": {
+    "headline": "About Us",
+    "mainContent": "K2 Informatics GmbH is an IT service company. We plan and develop software solutions for the automation and optimization of operational processes. One of our strengths is the integration of existing heterogeneous applications into a modern and uniform whole.",
+    "subContents": {
+      "firstRow": {
+        "title": "We want for you ...",
+        "list": [
+          "Create benefit",
+          "Accept Challenges",
+          "Work hard on your project and on us"
+        ]
+      },
+      "secondRow": {
+        "title": "And thereby",
+        "list": [
+          "Honest and friendly with each other",
+          "Have fun at work",
+          "To celebrate success"
+        ]
+      }
+    },
+    "vision": {
+      "headline": "Vision",
+      "contents": [
+        "Sie - als Kunde - haben hohe Anforderungen an Ihre Informatiklösungen:",
+        [
+          "Investitions-Schutz",
+          "Time-To-Market",
+          "Produktivität",
+          "Transparenz",
+          "Kontinuität"
+        ],
+        "Der Markt und Ihr Business wandelt sich immer schneller.",
+        "Nur in seltenen Fällen können Standard-EDV-Systeme diejenigen Anforderungen abdecken, welche das Spezielle Ihres Produkts oder Ihres Angebots ausmachen. Die Integration von Teil-Lösungen zu einem sinnvollen Ganzen wird - allein schon aus Gründen des Investitionsschutzes - zu einem zentralen Thema.",
+        "Eine übergeordnete Betrachtungsweise und eine Drehscheibe für betriebliche Informationen inkl. EDV-Wissen kann folgendes bewirken:",
+        [
+          "die Mitarbeiter finden sich im EDV-Dschungel besser zurecht",
+          "sie kommen wieder schnell genug an die benötigten Informationen heran",
+          "die Komplexität der gesamten Prozesse wird - wo sinnvoll - versteckt",
+          "dauernde Veränderung hinter den Kulissen wird beherrschbar",
+          "Know-How bleibt von Personen unabhängig bestehen"
+        ],
+        "Wir unterstützen Sie beim Aufbau und Betrieb einer individualisierten Wissens-Drehscheibe für Ihr Unternehmen und nennen diese Knowledge Square."
+      ]
+    },
+    "teams": {
+      "headline": "Team/Partner",
+      "list": [{
+          "image": "portrait_0.jpg",
+          "name": "Stefan Ochsenbein",
+          "type": "Portrait",
+          "content": "<b>Portrait</b> <br/> Stefan Ochsenbein <br/> Dr. sc. nat.; Dipl. Physiker ETH; <br/> eMail: <a href='mailto:ochsenbein@bluewin.ch'>ochsenbein@bluewin.ch</a> <br/> Physikstudium an der ETH Zürich <br/>Dissertation am Paul Scherrer Institut in Villigen / ETH Zürich,<br/>Gründungsmitglied und VR mls Laser Systems Schweiz AG in Cham<br/>Entwicklungsleiter Verbrennungstechnik Satronic AG, Dielsdorf<br/>Informatik-Entwicklungsleiter ARCO-Data AG, Zug<br/>Gründer und Geschäftsführer K2 Informatics GmbH, Root D4<br/><br/>Um mehr über unsere Mitarbeiter und Partner zu erfahren, clicken Sie bitte auf die untenstehenden Vorschaubilder"
+        },
+        {
+          "image": "portrait_1.jpg",
+          "name": "Bikram Chatterjee",
+          "type": "Portrait",
+          "content": "<b>Portrait</b><br/>Bikram Chatterjee<br/>B. Tech in Computer Science and Engineering<br/>eMail: <a href='mailto:bikram.chatterjee@k2informatics.ch'>bikram.chatterjee@k2informatics.ch</a><br/>Bachelor of Technology in Computer Science from Kalyani University, Kolkata, India<br/>Telecom Projects, Embedded Computing, Mobile Applications<br/>Software-Development and Projekt-Management, K2 Informatics GmbH, Root Längenbold"
+        },
+        {
+          "image": "portrait_2.jpg",
+          "name": "Agustin Cautin",
+          "type": "Portrait",
+          "content": "Licenciado en Ciencias de la Ingeniería Informática UTFSM, Valparaíso, Chile <br/> Enthusiast about a wide range of areas in computer science, from backend development to 3d game engines <br/> Software-Development and Projekt-Management, K2 Informatics GmbH, Root Längenbold"
+        },
+        {
+          "image": "portrait_3.jpg",
+          "name": "Franz Philippe Wyss",
+          "type": "Portrait",
+          "content": "<b>Portrait</b><br/>Franz Philippe Wyss<br/>Dr. sc. nat.; Dipl. Natw. ETH;<br/>eMail: <a href='mailto:info@lernpark.ch'>info@lernpark.ch</a><br/>Studium der Naturwissenschaften an der ETH Zürich<br/>Verhaltensbiologie, Wahrnehmung, Physiologie und experimenteller Psychologie<br/>Dissertation in Zellbiologie an der ETH Zürich<br/>Erfahrung und Führungsfunktion in Unternehmens- & Konzernentwicklung, Umwelt- und Projektmanagement<br/>Gründer und Geschäftsführer <a href=''>lernpark.ch</a>, Zofingen<br/>Weiterbildungen in Controlling, Didaktik, Kommunikation, Marketing, Moderation, Pädagogik, Systemischer Organisationsberatung, Total Quality Management, Mediation, Transaktionsanalyse, Systemischer Organisationsberatung,Total Quality Management, Mediation, Transaktionsanalyse,TZI."
+        },
+        {
+          "image": "portrait_4.jpg",
+          "name": "Erlio GmbH",
+          "type": "",
+          "content": "<b>Erlio GmbH</b><br/>Laufenstrasse 9 CH-4053 Basel <a href='mailto:info@erl.io'>info@erl.io</a><br/><a href='http://www.erl.io'>http://www.erl.io</a><br/>Unser Partner mit speziellen Kompetenzen in folgenden Bereichen:<br/>Erlang, Consulting, Development, Software Engineering<br/>Web-Kommunikation"
+        },
+        {
+          "image": "portrait_5.jpg",
+          "name": "Manfred Jehle",
+          "type": "Portrait",
+          "content": "<b>Portrait</b><br/>Manfred Jehle<br/>eMail: <a href='mailto:info@cetris.ch'>info@cetris.ch</a>Lehrlings-Ausbildner bei Landis&Gyr, Zug<br/>Chefexperte Informatik im Auftrag von Amt für Berufsbildung, Zug<br/>Software-Entwicklung bei ARCO-Data AG, Zug<br/>Gründer und Geschäftsführer CeTris GmbH, Zug"
+        },
+        {
+          "image": "portrait_6.jpg",
+          "name": "Susanne Müller",
+          "type": "Portrait",
+          "content": ""
+        },
+        {
+          "image": "portrait_7.jpg",
+          "name": "Erna Villiger",
+          "type": "Portrait",
+          "content": ""
+        },
+        {
+          "image": "portrait_8.jpg",
+          "name": "Guido Hollenstein",
+          "type": "Portrait",
+          "content": ""
+        },
+        {
+          "image": "portrait_9.jpg",
+          "name": "Edouard Laederach",
+          "type": "Portrait",
+          "content": ""
+        },
+        {
+          "image": "portrait_10.jpg",
+          "name": "Bruno Schuler",
+          "type": "Portrait",
+          "content": ""
+        },
+        {
+          "image": "portrait_11.jpg",
+          "name": "lernpark.ch",
+          "type": "",
+          "content": ""
+        },
+        {
+          "image": "portrait_12.jpg",
+          "name": "CeTris GmbH",
+          "type": "",
+          "content": ""
+        },
+        {
+          "image": "portrait_13.jpg",
+          "name": "Holimatic GmbH",
+          "type": "",
+          "content": ""
+        },
+        {
+          "image": "portrait_14.jpg",
+          "name": "Laederach&Schuler",
+          "type": "Portrait",
+          "content": ""
+        }
+      ]
+    },
+    "contact": {
+      "headline": "Contact",
+      "contents": [{
+          "key": "<b>Your contact:</b>",
+          "value": "Stefan Ochsenbein(Managing Director)"
+        },
+        {
+          "key": "<b>Address:</b>",
+          "value": "<b>K2 Informatics GmbH</b><br/>5th place CH-6039 Root D4"
+        },
+        {
+          "key": "<b>Tel:</b>",
+          "value": "079 432 17 50"
+        },
+        {
+          "key": "<b>Mobile:</b>",
+          "value": "079 432 17 50"
+        },
+        {
+          "key": "<b>eMail:</b>",
+          "value": "office@k2informatics.ch"
+        },
+        {
+          "key": "<b>Map:</b>",
+          "value": "<a href=''>Access D4 Technopark Root</a>"
+        },
+        {
+          "key": "<b>VAT Number:</b>",
+          "value": "623667"
+        },
+        {
+          "key": "<b>Commercial Register Number:</b>",
+          "value": "CH-170.4.005.745-8"
+        }
+      ]
+    },
+    "map": {
+      "headline": "Map"
+    },
+    "support": {
+      "headline": "Support",
+      "contents": [
+        "<b>Support page for our customers</b>",
+        "You must authenticate yourself to use our support services.",
+        "Request <a href=''>Here</a> a user ID and a password.",
+        "If you already have a password, go to the <a href=''>support menu</a>"
+      ]
+    },
+    "jobs": {
+      "headline": "Jobs",
+      "contents": [
+        "Offene Stellen bei K2 Informatics:",
+        "Erlang/OTP Developer 80-100%",
+        "Sind Sie ein erfahrener Software-Entwickler und suchen eine herausfordernde Tätigkeit als Erlang-Developer/Generalist?",
+        "Wir entwickeln Software-Systeme zur Steuerung von Telekommunikationsdiensten im Mesaging-Bereich und haben in diesem Umfeld eine interessante, vielseitige und entwicklungsfähige Position zu besetzen.",
+        "<b>In dieser erfüllen Sie als neues Team-Mitglied vielleicht schon bald folgende Aufgaben:<b>",
+        [
+          "Requirements-Engineering in Zusammenarbeit mit dem Kunden",
+          "Solution-Design, Spezifikation",
+          "Interne Projektleitung",
+          "Realisation/Programmierung",
+          "Planung und Durchführung von Tests und Inbetriebnahmen"
+        ],
+        "Je nach Projektumfang realisieren Sie die Lösungen selbständig oder zusammen mit internen oder externen Partnern.",
+        "<b>Was Sie mitbringen:</b>",
+        [
+          "Abgeschlossene Informatik-Ausbildung (B.S, M.S., ETH, Uni, FH, HTL)",
+          "Erfahrung in der Realisierung von Software-Projekten",
+          "Branchenkenntnisse, vorzugsweise im Messaging- / Telecom- oder Bankenumfeld",
+          "Ausgeprägte analytische Fähigkeiten",
+          "Geschick im Umgang mit anspruchsvollen Kunden",
+          "Teamfähigkeit und Selbständigeit",
+          "Dienstleistungs-orientiertes Denken und Handeln",
+          "Gute Englischkenntnisse, Basiskenntnisse Deutsch, Französisch willkommen",
+          "Erfahrung in Erlang/OTP, wenn möglich in Telecom-ähnlichem Umfeld",
+          "Gewandtheit in weiteren Programmiersprachen, z.B. Python, JavaScript, JQuery ...",
+          "Gute Kenntnisse in Datenbank-Programmierung unter Anwendung von SQL- und NoSql-Konzepten"
+        ],
+        "<b>Wir offerieren:</b>",
+        [
+          "Eine Möglichkeit, unsere Neuentwicklungen aktiv mitzugestalten",
+          "Anspruchsvolle Aufgaben, bei welchen Sie Ihre Eigeninitiative und Kreativität einsetzen können",
+          "Überdurchschnittliches, erfolgsabhängiges Salär",
+          "Flexible Freizeit- und Urlaubsregelungen",
+          "Angenehmes und motivierendes Arbeitsklima im kleinen Team"
+        ],
+        "Wir freuen uns auf Ihre Bewerbung. Senden sie diese bitte per eMail an: <a href='mailto:k2informatics@bluewin.ch'>k2informatics@bluewin.ch</a>"
+      ]
+    }
+  }
+}
